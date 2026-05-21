@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> HTML Project 1 </title>
+</head>
+
+<body>
+
+<p>
+
+Trader Joes Critiques <br>
+
+1. My first impression of the site is that it's very clean and aesthetically pleasing to the eye. I love the layout of this website. The color scheme and pictures used seem very cohesive and intentional. <br>
+2. They have a three-line tab that has a dropdown list of all the information categorized into sections like products, discover, recipes, list, careers, etc.  <br>
+3. The site structure to me makes sense. It's how many of the websites that I visit are structured, so it was pretty easy to navigate. <br>
+4. The graphics and multimedia definitely enhance the site. I shop a lot at Trader Joe's, and this website encompasses their brand really well. The packaging and brand are reflected very well on the site.  <br>
+5. The load time was pretty fast.  <br>
+6. The text color and size were very readable to me. They did a great job at balancing when and where to use a bigger font size and different font styles. They did have an image as the background right as you got into the website, but I think it was nice that they added something plain on top of it to break up the space.  <br>
+7. They did have a navigation tool on the top left side of the website. It is very well organized and very easy to find what you are looking for. <br>
+8. The site had a very cohesive color scheme. It was repeated on all pages, but every page was different, yet still tied back to the original home page theme. <br>
+9. The site responds very well to small window sizes. Adapted well to the variations in size. <br>
+10. On the homepage, as you scroll down, there are different sections like the "What's New?" section and the "Believe-Eat-Or-Not-Recipes" section. These sections allow you are able to swipe through the different slides they have and still stay on the home page without it taking you to a new page. It makes it fun and interactive. It's nice that it is short and easy to read.  <br>
+
+
+  
+</p>
+
+<! - - Comments:  - ->
+
+</body>
+</html>
